@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **Caça aos Descontos: Uma Aventura Gamer!** 
+### **Caça aos Descontos: Uma Aventura Gamer - Imersão Dev da Alura com Google Gemini!** 
 
 **O que faz essa aplicação?**
 
